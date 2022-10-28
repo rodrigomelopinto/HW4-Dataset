@@ -1,0 +1,1223 @@
+﻿name;level;damage
+Alakazam;42;30
+Blastoise;52;40
+Chansey;55;80
+Charizard;76;100
+Clefairy;14;0
+Gyarados;41;50
+Hitmonchan;33;40
+Machamp;67;60
+Magneton;28;80
+Mewtwo;53;10
+Nidoking;23;30
+Ninetales;32;80
+Poliwrath;48;40
+Raichu;73;60
+Venusaur;67;60
+Zapdos;64;100
+Beedrill;52;40
+Dragonair;40;30
+Dugtrio;80;70
+Electabuzz;42;30
+Electrode;65;50
+Pidgeotto;32;20
+Arcanine;90;80
+Charmeleon;62;50
+Dewgong;42;50
+Dratini;10;10
+Farfetch'd;20;30
+Growlithe;18;20
+Haunter;22;50
+Ivysaur;20;30
+Jynx;23;20
+Kadabra;38;50
+Kakuna;23;20
+Machoke;40;60
+Magikarp;8;10
+Magmar;24;50
+Nidorino;25;50
+Poliwhirl;28;30
+Porygon;12;0
+Raticate;41;20
+Seel;12;10
+Wartortle;22;40
+Abra;10;10
+Bulbasaur;13;20
+Caterpie;13;10
+Charmander;10;30
+Diglett;8;30
+Doduo;10;10
+Drowzee;10;10
+Gastly;8;0
+Koffing;13;10
+Machop;20;20
+Magnemite;13;40
+Metapod;21;20
+Nidoran â;20;30
+Onix;12;10
+Pidgey;8;10
+Pikachu;12;30
+Poliwag;13;10
+Ponyta;10;30
+Rattata;9;20
+Sandshrew;12;10
+Squirtle;8;10
+Starmie;28;20
+Staryu;15;20
+Tangela;8;20
+Voltorb;10;10
+Vulpix;11;10
+Weedle;12;10
+Clefable;34;0
+Electrode;42;20
+Flareon;28;60
+Jolteon;29;20
+Kangaskhan;40;20
+Mr. Mime;28;10
+Nidoqueen;43;50
+Pidgeot;40;30
+Pinsir;24;50
+Scyther;25;30
+Snorlax;20;30
+Vaporeon;42;30
+Venomoth;28;10
+Victreebel;42;20
+Vileplume;35;40
+Wigglytuff;36;10
+Clefable;34;0
+Electrode;42;20
+Flareon;28;60
+Jolteon;29;20
+Kangaskhan;40;20
+Mr. Mime;28;10
+Nidoqueen;43;50
+Pidgeot;40;30
+Pinsir;24;50
+Scyther;25;30
+Snorlax;20;30
+Vaporeon;42;30
+Venomoth;28;10
+Victreebel;42;20
+Vileplume;35;40
+Wigglytuff;36;10
+Butterfree;28;40
+Dodrio;28;10
+Exeggutor;35;20
+Fearow;27;40
+Gloom;35;20
+Lickitung;10;10
+Marowak;26;30
+Nidorina;24;30
+Parasect;28;30
+Persian;25;30
+Primeape;45;50
+Rapidash;33;30
+Rhydon;48;50
+Seaking;28;30
+Tauros;24;20
+Weepinbell;28;30
+Bellsprout;11;10
+Cubone;13;10
+Eevee;12;10
+Exeggcute;14;20
+Goldeen;12;10
+Jigglypuff;14;20
+Mankey;7;10
+Meowth;15;10
+Nidoran â;13;10
+Oddish;8;10
+Paras;8;20
+Pikachu;14;20
+Rhyhorn;18;30
+Spearow;13;10
+Venonat;12;10
+Aerodactyl;28;30
+Articuno;35;50
+Dragonite;45;40
+Gengar;38;30
+Haunter;17;10
+Hitmonlee;30;50
+Hypno;36;30
+Kabutops;30;40
+Lapras;12;10
+Magneton;35;100
+Moltres;35;80
+Muk;34;30
+Raichu;45;30
+Zapdos;40;40
+Aerodactyl;28;30
+Articuno;35;50
+Dragonite;45;40
+Gengar;38;30
+Haunter;17;10
+Hitmonlee;30;50
+Hypno;36;30
+Kabutops;30;40
+Lapras;31;10
+Magneton;35;100
+Moltres;35;80
+Muk;34;30
+Raichu;45;30
+Zapdos;40;40
+Arbok;27;20
+Cloyster;25;30
+Gastly;17;10
+Golbat;29;30
+Golduck;27;20
+Golem;36;100
+Graveler;29;40
+Kingler;27;40
+Magmar;31;20
+Omastar;32;30
+Sandslash;33;20
+Seadra;23;20
+Slowbro;26;20
+Tentacruel;21;10
+Weezing;27;60
+Ekans;10;20
+Geodude;16;10
+Grimer;17;10
+Horsea;19;10
+Kabuto;9;10
+Krabby;20;20
+Omanyte;19;10
+Psyduck;15;10
+Shellder;8;0
+Slowpoke;18;0
+Tentacool;10;10
+Zubat;10;10
+Alakazam;42;30
+Blastoise;52;40
+Chansey;55;80
+Charizard;76;100
+Clefable;34;0
+Clefairy;14;0
+Gyarados;41;50
+Hitmonchan;33;40
+Magneton;28;80
+Mewtwo;53;10
+Nidoking;23;30
+Nidoqueen;43;50
+Ninetales;32;80
+Pidgeot;40;30
+Poliwrath;48;40
+Raichu;40;60
+Scyther;25;30
+Venusaur;67;60
+Wigglytuff;36;10
+Zapdos;64;100
+Beedrill;32;40
+Dragonair;33;30
+Dugtrio;36;70
+Electabuzz;35;30
+Electrode;40;50
+Kangaskhan;40;20
+Mr. Mime;28;10
+Pidgeotto;36;20
+Pinsir;24;50
+Snorlax;20;30
+Venomoth;28;10
+Victreebel;42;20
+Arcanine;45;80
+Butterfree;28;40
+Charmeleon;32;50
+Dewgong;42;50
+Dodrio;28;10
+Dratini;10;10
+Exeggutor;35;20
+Farfetch'd;20;30
+Fearow;27;40
+Growlithe;18;20
+Haunter;22;50
+Ivysaur;20;30
+Jynx;23;20
+Kadabra;38;50
+Kakuna;23;20
+Lickitung;10;10
+Machoke;40;60
+Magikarp;8;10
+Magmar;24;50
+Marowak;26;30
+Nidorina;24;30
+Nidorino;25;50
+Parasect;28;30
+Persian;25;30
+Poliwhirl;28;30
+Raticate;41;20
+Rhydon;48;50
+Seaking;28;30
+Seel;12;10
+Tauros;24;20
+Wartortle;22;40
+Weepinbell;28;30
+Abra;10;10
+Bellsprout;11;10
+Bulbasaur;13;20
+Caterpie;13;10
+Charmander;10;30
+Cubone;13;10
+Diglett;8;30
+Doduo;10;10
+Drowzee;10;10
+Exeggcute;14;20
+Gastly;8;0
+Goldeen;12;10
+Jigglypuff;14;20
+Machop;20;20
+Magnemite;13;40
+Meowth;15;10
+Metapod;21;20
+Nidoran â;13;10
+Nidoran â;20;30
+Onix;12;10
+Paras;8;20
+Pidgey;8;10
+Pikachu;12;30
+Poliwag;13;10
+Rattata;9;20
+Rhyhorn;18;30
+Sandshrew;12;10
+Spearow;13;10
+Squirtle;8;10
+Starmie;28;20
+Staryu;15;20
+Tangela;8;20
+Venonat;12;10
+Voltorb;10;10
+Vulpix;11;10
+Weedle;12;10
+Dark Alakazam;30;40
+Dark Arbok;25;10
+Dark Blastoise;28;40
+Dark Charizard;38;50
+Dark Dragonite;33;70
+Dark Dugtrio;18;20
+Dark Golbat;25;0
+Dark Gyarados;31;30
+Dark Hypno;26;20
+Dark Machamp;30;30
+Dark Magneton;26;30
+Dark Slowbro;27;40
+Dark Vileplume;29;30
+Dark Weezing;24;20
+Dark Alakazam;30;40
+Dark Arbok;25;10
+Dark Blastoise;28;40
+Dark Charizard;38;50
+Dark Dragonite;33;70
+Dark Dugtrio;18;20
+Dark Golbat;25;0
+Dark Gyarados;31;30
+Dark Hypno;26;20
+Dark Machamp;30;30
+Dark Magneton;26;30
+Dark Slowbro;27;40
+Dark Vileplume;29;30
+Dark Weezing;24;20
+Dark Charmeleon;23;70
+Dark Dragonair;28;20
+Dark Electrode;24;30
+Dark Flareon;23;30
+Dark Gloom;21;10
+Dark Golduck;23;50
+Dark Jolteon;23;30
+Dark Kadabra;24;30
+Dark Machoke;28;30
+Dark Muk;25;20
+Dark Persian;28;10
+Dark Primeape;23;40
+Dark Rapidash;24;30
+Dark Vaporeon;28;30
+Dark Wartortle;21;10
+Magikarp;6;10
+Porygon;26;20
+Abra;14;10
+Charmander;9;20
+Dark Raticate;25;50
+Diglett;15;20
+Dratini;12;10
+Drowzee;10;10
+Eevee;9;10
+Ekans;15;20
+Grimer;10;10
+Koffing;12;20
+Machop;24;30
+Magnemite;12;20
+Mankey;14;20
+Meowth;10;0
+Oddish;21;0
+Ponyta;15;30
+Psyduck;16;20
+Rattata;12;10
+Slowpoke;16;10
+Squirtle;16;20
+Voltorb;13;20
+Zubat;9;20
+Dark Raichu;31;30
+Alakazam;42;30
+Articuno;35;50
+Charizard;76;100
+Dark Blastoise;28;40
+Dark Dragonite;33;70
+Dark Persian;28;10
+Dark Raichu;31;30
+Dark Slowbro;27;40
+Dark Vaporeon;28;30
+Flareon;28;60
+Gengar;38;30
+Gyarados;41;50
+Hitmonlee;30;50
+Jolteon;29;20
+Machamp;67;60
+Muk;34;30
+Ninetales;32;80
+Venusaur;67;60
+Zapdos;64;100
+Beedrill;32;40
+Butterfree;28;40
+Electrode;42;20
+Exeggutor;35;20
+Golem;36;100
+Hypno;36;30
+Jynx;23;20
+Kabutops;30;40
+Magneton;35;100
+Mewtwo;13;0
+Moltres;35;80
+Nidoking;48;30
+Nidoqueen;43;50
+Pidgeot;40;30
+Pidgeotto;36;20
+Rhydon;48;50
+Arcanine;45;80
+Charmeleon;32;50
+Dark Dragonair;28;20
+Dark Wartortle;21;10
+Dewgong;42;50
+Dodrio;28;10
+Fearow;27;40
+Golduck;27;20
+Graveler;29;40
+Growlithe;18;20
+Haunter;17;10
+Ivysaur;20;30
+Kabuto;9;10
+Kadabra;38;50
+Kakuna;23;20
+Machoke;40;60
+Magikarp;8;10
+Meowth;15;10
+Metapod;21;20
+Nidorina;24;30
+Nidorino;25;50
+Omanyte;19;10
+Omastar;32;30
+Primeape;45;50
+Rapidash;33;30
+Raticate;41;20
+Sandslash;33;20
+Seadra;23;20
+Snorlax;20;30
+Tauros;24;20
+Tentacruel;21;10
+Abra;10;10
+Bulbasaur;13;20
+Caterpie;13;10
+Charmander;10;30
+Doduo;10;10
+Dratini;10;10
+Drowzee;10;10
+Eevee;12;10
+Exeggcute;14;20
+Gastly;17;10
+Geodude;16;10
+Grimer;17;10
+Machop;24;30
+Magnemite;13;40
+Mankey;14;20
+Nidoran â;13;10
+Nidoran â;20;30
+Onix;12;10
+Pidgey;8;10
+Pikachu;14;20
+Ponyta;10;30
+Psyduck;16;20
+Rattata;9;20
+Rhyhorn;18;30
+Sandshrew;12;10
+Seel;12;10
+Slowpoke;18;0
+Spearow;13;10
+Squirtle;8;10
+Tentacool;10;10
+Voltorb;10;10
+Vulpix;11;10
+Weedle;12;10
+Pikachu;16;20
+Electabuzz;20;10
+Mewtwo;60;40
+Pikachu;13;50
+Dragonite;43;60
+Arcanine;34;40
+Jigglypuff;12;40
+Mew;23;10
+Mew;51;10
+Meowth;13;0
+Eevee;7;20
+Mewtwo;13;0
+Venusaur;16;40
+Mewtwo;60;40
+Cool Porygon;15;20
+Dark Persian;28;10
+Team Rocket's Meowth;30;0
+Sabrina's Abra;15;40
+Psyduck;15;10
+Moltres;33;60
+Articuno;34;20
+Zapdos;30;30
+_____'s Pikachu;17;30
+Flying Pikachu;12;30
+Pikachu;9;40
+Pikachu;5;20
+Surfing Pikachu;32;30
+Marill;64;20
+Togepi;8;0
+Cleffa;5;0
+Smeargle;21;0
+Scizor;36;30
+Entei;37;50
+Pichu;4;0
+Igglybuff;5;0
+Hitmontop;29;30
+Unown [J];17;10
+Misdreavus;23;10
+Machamp;54;50
+Magmar;27;40
+Scyther;23;40
+Electabuzz;22;10
+Mew;8;10
+Articuno;34;30
+Snorlax;35;30
+Electabuzz;35;30
+Hitmonchan;33;40
+Rocket's Mewtwo;35;60
+Rocket's Hitmonchan;29;50
+Claydol;45;40
+Dialga;68;40
+Dusknoir;42;0
+Electivire;46;60
+Empoleon;42;70
+Infernape;40;90
+Lucario;30;40
+Luxray;48;80
+Magnezone;48;50
+Manaphy;20;30
+Mismagius;37;30
+Palkia;67;40
+Rhyperior;61;80
+Roserade;33;50
+Shiftry;48;50
+Skuntank;36;30
+Staraptor;54;100
+Torterra;45;60
+Azumarill;35;40
+Beautifly;29;50
+Bibarel;26;60
+Carnivine;32;30
+Clefable;37;30
+Drapion;41;50
+Drifblim;40;60
+Dustox;34;50
+Floatzel;29;40
+Gengar;39;0
+Heracross;29;30
+Hippowdon;45;60
+Lopunny;33;30
+Machamp;59;60
+Medicham;42;80
+Munchlax;8;30
+Noctowl;40;30
+Pachirisu;23;20
+Purugly;44;50
+Snorlax;35;40
+Steelix;50;100
+Vespiquen;40;10
+Weavile;37;10
+Wobbuffet;25;0
+Wynaut;6;0
+Budew;6;0
+Cascoon;8;20
+Cherrim;26;20
+Drifloon;17;10
+Dusclops;38;30
+Elekid;6;0
+Grotle;21;50
+Haunter;32;60
+Hippopotas;23;10
+Luxio;19;30
+Machoke;39;60
+Magneton;35;40
+Mantyke;6;0
+Monferno;18;30
+Nuzleaf;28;40
+Prinplup;20;0
+Rapidash;34;50
+Rhydon;43;60
+Riolu;7;30
+Seaking;41;50
+Silcoon;8;20
+Staravia;21;20
+Unown A;15;10
+Unown B;12;10
+Unown C;18;10
+Unown D;14;10
+Azurill;6;0
+Bidoof;10;0
+Bonsly;6;0
+Buizel;10;10
+Buneary;11;10
+Chatot;27;10
+Cherubi;7;20
+Chimchar;8;30
+Clefairy;18;20
+Cleffa;5;0
+Combee;8;20
+Duskull;15;20
+Electabuzz;29;30
+Gastly;12;0
+Glameow;12;30
+Goldeen;14;30
+Hoothoot;7;30
+Machop;20;20
+Magnemite;10;20
+Marill;12;20
+Meditite;19;10
+Mime Jr.;5;0
+Misdreavus;16;20
+Onix;22;20
+Piplup;9;20
+Ponyta;12;30
+Rhyhorn;19;30
+Roselia;31;10
+Seedot;9;20
+Shinx;7;10
+Skorupi;9;10
+Sneasel;21;10
+Starly;8;10
+Stunky;17;10
+Turtwig;10;20
+Wurmple;7;10
+Aggron;49;60
+Alakazam;47;50
+Ambipom;36;80
+Azelf;50;10
+Blissey;44;20
+Bronzong;40;50
+Celebi;39;30
+Feraligatr;53;60
+Garchomp;66;70
+Honchkrow;42;50
+Lumineon;34;30
+Magmortar;48;80
+Meganium;48;60
+Mesprit;50;30
+Raichu;40;30
+Typhlosion;46;60
+Tyranitar;57;80
+Uxie;50;10
+Abomasnow;40;60
+Ariados;32;20
+Bastiodon;51;60
+Chimecho;21;20
+Crobat;45;0
+Exeggutor;46;30
+Glalie;43;50
+Gyarados;49;80
+Kricketune;38;40
+Manectric;38;70
+Mantine;25;50
+Mr. Mime;33;0
+Nidoqueen;50;90
+Ninetales;37;60
+Rampardos;48;100
+Slaking;56;50
+Sudowoodo;22;30
+Toxicroak;39;30
+Unown I;16;0
+Ursaring;38;60
+Walrein;51;70
+Whiscash;41;60
+Bayleef;28;30
+Chingling;6;0
+Cranidos;24;30
+Croconaw;27;30
+Dewgong;36;60
+Dodrio;34;10
+Dunsparce;21;10
+Gabite;32;0
+Girafarig;27;20
+Golbat;22;30
+Graveler;34;40
+Happiny;8;0
+Lairon;32;50
+Magmar;30;50
+Masquerain;32;30
+Nidorina;25;30
+Octillery;32;30
+Parasect;36;60
+Pupitar;31;50
+Quilava;25;40
+Sandslash;37;60
+Sealeo;27;0
+Shieldon;26;40
+Tropius;28;30
+Unown E;18;0
+Unown M;15;0
+Unown T;14;0
+Vigoroth;24;30
+Abra;8;0
+Aipom;17;10
+Aron;15;30
+Barboach;12;0
+Bidoof;11;30
+Bronzor;8;20
+Buizel;12;10
+Chansey;31;80
+Chikorita;10;10
+Croagunk;17;20
+Cyndaquil;12;20
+Doduo;18;30
+Electrike;16;10
+Exeggcute;12;0
+Finneon;12;20
+Geodude;12;0
+Gible;9;10
+Kricketot;9;10
+Larvitar;18;20
+Magby;5;0
+Magikarp;13;60
+Murkrow;20;20
+Nidoran â;12;20
+Paras;16;20
+Pichu;6;20
+Pikachu;15;20
+Remoraid;15;20
+Sandshrew;16;30
+Seel;18;10
+Shinx;9;10
+Slakoth;7;0
+Snorunt;14;20
+Snover;20;30
+Spheal;17;10
+Spinarak;18;20
+Surskit;14;0
+Teddiursa;20;30
+Totodile;15;10
+Vulpix;16;20
+Zubat;8;20
+Ampharos;52;70
+Blastoise;52;50
+Charizard;55;120
+Entei;43;60
+Flygon;60;60
+Gallade;55;60
+Gardevoir;55;60
+Gastrodon East Sea;43;80
+Gastrodon West Sea;44;80
+Ho-Oh;45;20
+Jumpluff;42;0
+Lickilicky;46;80
+Ludicolo;47;60
+Lugia;43;120
+Mew;40;0
+Raikou;42;50
+Roserade;37;40
+Salamence;62;50
+Suicune;44;60
+Venusaur;51;60
+Absol;31;10
+Arcanine;48;120
+Banette;42;40
+Dugtrio;46;50
+Electivire;50;50
+Electrode;42;40
+Furret;35;40
+Golduck;39;40
+Golem;52;80
+Jynx;30;30
+Magmortar;52;40
+Minun;30;20
+Mothim;39;30
+Nidoking;55;60
+Pidgeot;50;50
+Plusle;30;20
+Sharpedo;39;60
+Sunflora;35;30
+Unown S;18;10
+Weavile;30;40
+Wormadam Plant Cloak;36;60
+Wormadam Sandy Cloak;37;40
+Wormadam Trash Cloak;38;70
+Xatu;44;0
+Breloom;40;60
+Charmeleon;29;50
+Cloyster;40;0
+Donphan;48;70
+Farfetch'd;26;30
+Flaaffy;26;60
+Ivysaur;24;60
+Kecleon;28;60
+Kirlia;28;0
+Lombre;26;40
+Miltank;32;20
+Muk;43;50
+Nidorino;28;40
+Pidgeotto;21;30
+Pinsir;30;100
+Quagsire;38;60
+Raticate;29;20
+Roselia;32;10
+Sableye;26;20
+Shelgon;32;30
+Skiploom;20;20
+Smeargle;31;0
+Smoochum;6;0
+Unown K;15;20
+Unown N;16;10
+Unown O;12;10
+Unown X;11;10
+Unown Z;16;0
+Venomoth;42;50
+Vibrava;37;40
+Wartortle;28;50
+Bagon;11;10
+Bulbasaur;14;10
+Burmy Plant Cloak;10;10
+Burmy Sandy Cloak;10;10
+Burmy Trash Cloak;10;10
+Carvanha;18;20
+Charmander;8;20
+Clefairy;17;10
+Corsola;32;30
+Diglett;10;30
+Duskull;11;0
+Electabuzz;32;60
+Grimer;15;10
+Growlithe;20;20
+Hoppip;7;10
+Lickitung;27;10
+Lotad;13;20
+Magmar;27;20
+Mareep;11;20
+Murkrow;10;0
+Natu;9;20
+Nidoran â;13;0
+Phanpy;14;30
+Pidgey;8;20
+Psyduck;15;10
+Qwilfish;31;20
+Ralts;13;10
+Rattata;10;20
+Sentret;11;10
+Shellder;10;20
+Shellos East Sea;23;10
+Shellos West Sea;25;10
+Shroomish;10;20
+Shuckle;25;10
+Shuppet;13;20
+Spinda;25;10
+Squirtle;15;20
+Stantler;28;20
+Sunkern;10;20
+Trapinch;9;10
+Venonat;25;10
+Voltorb;29;50
+Wooper;11;0
+Blaziken;56;30
+Cresselia;48;50
+Darkrai;38;50
+Darkrai;40;40
+Pachirisu;30;10
+Porygon-Z;54;40
+Rotom;38;30
+Sceptile;52;50
+Swampert;53;80
+Tangrowth;38;60
+Togekiss;51;40
+Altaria;42;60
+Beedrill;41;50
+Butterfree;36;60
+Claydol;45;40
+Dialga;68;40
+Exploud;58;70
+Houndoom;41;40
+Hypno;28;60
+Kingler;33;80
+Lapras;47;20
+Latias;45;80
+Latios;47;120
+Mawile;32;20
+Milotic;47;50
+Palkia;67;40
+Primeape;41;50
+Slowking;41;30
+Unown H;12;30
+Wailord;43;60
+Weezing;42;30
+Wigglytuff;46;40
+Arbok;31;50
+Cacturne;36;50
+Combusken;24;50
+Delibird;26;20
+Floatzel;32;60
+Gorebyss;34;30
+Granbull;34;40
+Grovyle;26;30
+Hariyama;38;50
+Huntail;33;30
+Linoone;24;30
+Loudred;31;40
+Magcargo;35;60
+Marshtomp;23;20
+Metapod;9;30
+Pelipper;45;30
+Porygon2;39;30
+Purugly;47;40
+Relicanth;31;30
+Seviper;26;30
+Skarmory;31;40
+Slowbro;39;60
+Togetic;23;50
+Unown F;13;10
+Unown G;17;50
+Wailmer;14;30
+Zangoose;23;40
+Baltoy;11;20
+Buizel;14;30
+Cacnea;12;20
+Caterpie;6;20
+Clamperl;15;20
+Drowzee;13;20
+Ekans;16;10
+Feebas;4;10
+Glameow;14;20
+Houndour;13;20
+Igglybuff;6;0
+Illumise;29;30
+Jigglypuff;23;20
+Kakuna;9;10
+Koffing;18;10
+Krabby;8;30
+Lunatone;31;20
+Luvdisc;28;10
+Makuhita;15;40
+Mankey;14;10
+Mudkip;7;30
+Porygon;7;20
+Slowpoke;10;20
+Slugma;11;20
+Snubbull;11;30
+Solrock;29;20
+Swablu;7;10
+Tangela;12;20
+Togepi;4;0
+Torchic;7;10
+Treecko;7;20
+Unown L;18;0
+Volbeat;34;20
+Weedle;5;0
+Whismur;8;10
+Wingull;6;20
+Zigzagoon;6;10
+Articuno;46;60
+Cresselia;43;40
+Darkrai;48;40
+Dialga;63;60
+Glaceon;44;60
+Kabutops;56;70
+Leafeon;42;60
+Manaphy;32;30
+Mewtwo;51;60
+Moltres;47;100
+Palkia;62;60
+Phione;23;30
+Rotom;37;30
+Zapdos;45;80
+Aerodactyl;44;30
+Bronzong;44;60
+Empoleon;49;50
+Espeon;44;60
+Flareon;43;70
+Glaceon;46;60
+Hippowdon;44;50
+Infernape;46;40
+Jolteon;39;50
+Leafeon;40;50
+Minun;24;20
+Omastar;53;40
+Phione;20;30
+Plusle;27;20
+Scizor;42;50
+Torterra;51;100
+Toxicroak;32;60
+Umbreon;43;50
+Unown P;17;20
+Vaporeon;45;60
+Ambipom;34;20
+Fearow;29;60
+Grotle;23;40
+Kangaskhan;28;30
+Lickitung;23;20
+Manectric;34;40
+Monferno;20;30
+Mothim;41;40
+Pachirisu;25;30
+Prinplup;24;50
+Raichu;37;100
+Scyther;12;10
+Staravia;23;50
+Sudowoodo;25;50
+Unown Q;15;20
+Aipom;16;20
+Aipom;15;30
+Bronzor;11;10
+Buneary;13;10
+Burmy Sandy Cloak;12;30
+Chatot;30;20
+Chimchar;6;40
+Chimchar;7;10
+Chingling;5;0
+Combee;6;0
+Croagunk;13;10
+Drifloon;18;20
+Eevee;14;20
+Eevee;12;10
+Electrike;18;20
+Glameow;15;10
+Hippopotas;25;40
+Kabuto;38;20
+Munchlax;7;20
+Omanyte;37;20
+Pikachu;12;50
+Piplup;10;20
+Piplup;8;0
+Shellos East Sea;19;20
+Spearow;10;30
+Starly;10;20
+Stunky;14;20
+Turtwig;11;30
+Turtwig;9;30
+Deoxys Normal Forme;50;20
+Dragonite;61;40
+Froslass;46;40
+Giratina;52;50
+Gliscor;42;40
+Heatran;47;40
+Kingdra;52;40
+Luxray;51;100
+Mamoswine;54;60
+Metagross;58;50
+Mewtwo;42;40
+Politoed;49;40
+Probopass;46;60
+Rayquaza;56;150
+Regigigas;52;120
+Spiritomb;44;0
+Yanmega;47;60
+Armaldo;52;60
+Azelf;55;20
+Bellossom;38;40
+Cradily;49;50
+Crawdaunt;32;50
+Delcatty;46;30
+Deoxys Attack Forme;50;80
+Deoxys Defense Forme;50;40
+Deoxys Speed Forme;50;0
+Forretress;43;100
+Groudon;45;100
+Heatran;45;40
+Jirachi;42;0
+Kyogre;47;60
+Lopunny;37;30
+Mesprit;55;20
+Poliwrath;46;90
+Regice;43;50
+Regigigas;48;60
+Regirock;51;40
+Registeel;50;50
+Shedinja;34;0
+Torkoal;32;30
+Unown !;16;10
+Uxie;55;20
+Victreebel;40;60
+Vileplume;41;60
+Anorith;29;30
+Camerupt;41;80
+Castform;35;30
+Castform Rain Form;35;30
+Castform Snow-Cloud Form;35;0
+Castform Sunny Form;35;40
+Dragonair;31;30
+Drifblim;43;60
+Exeggutor;43;50
+Gliscor;44;30
+Grumpig;36;20
+Houndoom;45;60
+Lanturn;39;40
+Lanturn;43;60
+Ledian;39;50
+Lucario;35;60
+Luxio;23;70
+Marowak;30;50
+Metang;24;50
+Metang;22;40
+Mightyena;42;30
+Ninjask;42;30
+Persian;32;40
+Piloswine;35;60
+Seadra;35;50
+Starmie;39;30
+Swalot;35;60
+Swellow;30;30
+Tauros;26;40
+Tentacruel;37;60
+Unown J;12;10
+Unown R;16;0
+Unown U;15;0
+Unown V;17;30
+Unown W;21;50
+Unown Y;15;0
+Unown ?;18;0
+Beldum;9;30
+Beldum;7;20
+Bellsprout;5;20
+Buneary;10;20
+Chinchou;15;10
+Chinchou;13;20
+Corphish;6;20
+Cubone;16;20
+Dratini;8;20
+Drifloon;14;20
+Exeggcute;11;10
+Gligar;19;10
+Gligar;14;20
+Gloom;22;20
+Gloom;24;30
+Gulpin;17;0
+Hitmonchan;27;30
+Hitmonlee;24;60
+Hitmontop;25;50
+Horsea;8;10
+Houndour;12;10
+Ledyba;12;30
+Lileep;27;30
+Meowth;13;10
+Misdreavus;18;10
+Nincada;10;10
+Nosepass;15;20
+Numel;16;30
+Oddish;6;10
+Oddish;7;20
+Pineco;11;40
+Poliwag;5;10
+Poliwhirl;28;40
+Poochyena;17;10
+Riolu;11;30
+Shinx;6;20
+Skitty;14;10
+Sneasel;23;20
+Spoink;10;20
+Staryu;14;20
+Swinub;13;30
+Taillow;12;10
+Tentacool;16;0
+Tyrogue;10;10
+Weepinbell;23;40
+Yanma;13;20
+Dusknoir;48;50
+Empoleon;52;60
+Infernape;49;80
+Lumineon;38;30
+Magnezone;44;80
+Magnezone;46;60
+Mismagius;33;40
+Raichu;45;100
+Regigigas;47;60
+Sceptile;56;60
+Torterra;47;80
+Abomasnow;42;60
+Bronzong;46;20
+Cherrim;30;50
+Drapion;44;60
+Drifblim;48;40
+Dusknoir;47;60
+Gengar;43;30
+Gyarados;52;100
+Machamp;62;60
+Mamoswine;56;60
+Rapidash;43;30
+Roserade;40;50
+Salamence;66;120
+Scizor;47;40
+Skuntank;40;60
+Staraptor;64;60
+Steelix;63;100
+Tangrowth;41;60
+Tyranitar;61;20
+Vespiquen;44;50
+Bibarel;29;60
+Budew;8;0
+Dusclops;41;40
+Dusclops;40;40
+Electrode;46;60
+Electrode;45;40
+Farfetch'd;29;10
+Grovyle;23;60
+Haunter;35;30
+Machoke;41;30
+Magneton;40;40
+Magneton;38;50
+Miltank;27;20
+Pichu;8;0
+Piloswine;34;60
+Pupitar;33;20
+Sableye;31;10
+Scyther;11;30
+Shelgon;35;50
+Skarmory;34;10
+Staravia;18;30
+Bagon;13;30
+Bidoof;13;0
+Bronzor;14;20
+Cherubi;9;10
+Combee;12;0
+Drifloon;15;0
+Duskull;12;20
+Duskull;10;30
+Finneon;16;10
+Gastly;14;10
+Larvitar;19;20
+Machop;18;20
+Magikarp;10;10
+Magnemite;15;30
+Magnemite;13;10
+Misdreavus;19;0
+Onix;25;30
+Pikachu;20;40
+Ponyta;11;20
+Roselia;27;20
+Skorupi;11;20
+Snover;17;10
+Starly;7;10
+Stunky;18;20
+Swinub;12;20
+Tangela;10;20
+Treecko;11;0
+Voltorb;28;10
+Voltorb;31;20
+Charmander;10;30
+Charmeleon;32;50
+Charizard;76;100
+Drifloon;16;50
+Duskull;18;20
+Voltorb;33;20
